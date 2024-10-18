@@ -54,14 +54,13 @@ Open your browser and go to http://127.0.0.1:5000/ to view and use the applicati
 ```
 ## Usage
 
-```base
-How to Use the Application:
+**How to Use the Application:**
 Open the web application in your browser.
 Upload an image using the "Choose File" button.
 Click "Submit" to upload the image.
 The uploaded image will be displayed on the page, and the predicted animal will be shown below the image.
 If the image is not recognized or contains a human face, a corresponding message will be displayed.
-```
+
 ## Screenshots
 ![image](https://github.com/user-attachments/assets/7d3a9701-29bc-4040-980a-4a305893d6ac)
 ![image](https://github.com/user-attachments/assets/d4d26f4f-4327-4956-8c2a-7b1753b38569)
